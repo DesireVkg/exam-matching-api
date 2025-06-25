@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+joblib
+spacy
+pdfplumber
+scikit-learn
+python-multipart
+
